@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use MaterialComponents theme to ensure compatibility with Material widgets like FloatingActionButton, TabLayout, etc. -->
+    <style name="Theme.Fragment_Tablayout_Viewpager2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary / onPrimary control toolbar/background vs title color -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary accent color -->
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <!-- Status bar color (darker) -->
+        <item name="android:statusBarColor">@color/purple_700</item>
+
+        <!-- Ensure the Toolbar uses a style that sets white title text for contrast -->
+        <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
+    </style>
+
+    <!-- Toolbar style that forces white title text for readability -->
+    <style name="Widget.App.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="titleTextAppearance">@style/Widget.App.Toolbar.Title</item>
+        <item name="subtitleTextAppearance">@style/Widget.App.Toolbar.Subtitle</item>
+    </style>
+
+    <style name="Widget.App.Toolbar.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Widget.App.Toolbar.Subtitle" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

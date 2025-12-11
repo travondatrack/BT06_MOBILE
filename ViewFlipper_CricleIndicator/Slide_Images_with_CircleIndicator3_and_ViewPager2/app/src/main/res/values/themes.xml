@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Slide_Images_with_CircleIndicator3_and_ViewPager2" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Slide_Images_with_CircleIndicator_and_ViewPager</string>
+        <string name="image_desc">Slide image</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragment_Tablayout_Viewpager2</string>
+    <string name="fab_desc">Send email</string>
+    <string name="new_order_title">New Order</string>
+    <string name="pickup_title">Pickup</string>
+    <string name="delivery_title">Delivery</string>
+    <string name="danhgia_title">Review</string>
+    <string name="cancel_title">Cancel</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_new_group">New group</string>
+    <string name="menu_broadcast">New Broadcast</string>
+    <string name="menu_web">WhatsApp web</string>
+    <string name="menu_message">Started Messages</string>
+    <string name="menu_setting">Settings</string>
+</resources>

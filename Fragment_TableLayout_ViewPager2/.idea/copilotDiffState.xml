@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/call.b64">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/call.b64" />
+              <option name="updatedContent" value="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/camera.b64">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/camera.b64" />
+              <option name="updatedContent" value="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/chat.b64">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/chat.b64" />
+              <option name="updatedContent" value="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_call_24.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_call_24.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:shape=&quot;oval&quot;&gt;&#10;    &lt;size android:width=&quot;48dp&quot; android:height=&quot;48dp&quot;/&gt;&#10;    &lt;solid android:color=&quot;#4CAF50&quot;/&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:shape=&quot;oval&quot;&gt;&#10;    &lt;size android:width=&quot;48dp&quot; android:height=&quot;48dp&quot;/&gt;&#10;    &lt;solid android:color=&quot;#3F51B5&quot;/&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_chat_24.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_chat_24.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:shape=&quot;oval&quot;&gt;&#10;    &lt;size android:width=&quot;48dp&quot; android:height=&quot;48dp&quot;/&gt;&#10;    &lt;solid android:color=&quot;#FF4081&quot;/&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_cancel.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/layout/fragment_cancel.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;    &lt;TextView&#10;        android:id=&quot;@+id/tvCancel&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:text=&quot;Cancel&quot;&#10;        android:layout_gravity=&quot;center&quot; /&gt;&#10;&#10;&lt;/FrameLayout&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_delivery.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/layout/fragment_delivery.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;    &lt;TextView&#10;        android:id=&quot;@+id/tvDelivery&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:text=&quot;Delivery&quot;&#10;        android:layout_gravity=&quot;center&quot; /&gt;&#10;&#10;&lt;/FrameLayout&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_pickup.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/layout/fragment_pickup.xml" />
+              <option name="originalContent" value="&#10;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;    &lt;TextView&#10;        android:id=&quot;@+id/tvPickup&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:text=&quot;@string/pickup_title&quot;&#10;        android:layout_gravity=&quot;center&quot; /&gt;&#10;&#10;&lt;/FrameLayout&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
